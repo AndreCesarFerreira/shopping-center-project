@@ -1,0 +1,13 @@
+CentroComercial, MaiaShopping, Av. dos Descobrimentos
+Externa, Z111, Worten, 150, 30000, 500, 20
+Propria, D478, SpringField, 200, 50000, 250
+Propria, D241, Agave, 64, 6400, 200
+Propria, B123, Mango, 58, 30200, 450
+Quiosque, P931, Papelaria Tiberio, 15, 8000, 2
+Quiosque, B345, Bijuteria Juliana, 10, 4500, 4
+Quiosque, N999, Tabacaria Julio, 5, 2000, 3
+Restauracao, H524, Shimarrao, 50, 100000, 25, 50, 500
+Restauracao, I789, MacDonald, 25, 100000, 30, 40, 300
+Restauracao, R333, Burger King, 18, 60000, 18, 30, 180
+Restauracao, L113, Ochinchi, 10, 18000, 5, 20, 100
+FIM
